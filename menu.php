@@ -1,9 +1,9 @@
 <?php  
      print '<ul> 
        <?php include ("menu.php")?>
-        <li><a href="index.php">Početna</a></li>
-        <li><a href="onama.php">O nama</a></li>
-        <li><a href="kontakt.php">Kontakt</a></li>
-        <li><a href="galerija.php">Galerija</a></li>
+        <li><a href="index.php?menu=1">Početna</a></li>
+        <li><a href="index.php?menu=2">O nama</a></li>
+        <li><a href="index.php?menu=3">Kontakt</a></li>
+        <li><a href="index.php?menu=4">Galerija</a></li>
        </ul>'
    ?>

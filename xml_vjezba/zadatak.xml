@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<Invoice>
+    <BrojRacuna> </BrojRacuna>
+    <DatumIzdavanja> </DatumIzdavanja>
+    <VrijemeIzdavanja> </VrijemeIzdavanja>
+    <Napomena> </Napomena>
+    <RokZaPlacanje> </RokZaPlacanje>
+    <KodValute> </KodValute>
+    <BrojStavki> </BrojStavki>
+    <PeriodNaplate>
+        <PocetniDatum> </PocetniDatum>
+        <ZavrsniDatum> </ZavrsniDatum>
+    </PeriodNaplate>
+    <IzdavateljRacuna>
+        <OIB> </OIB>
+        <NazivTvrtke> </NazivTvrtke>
+        <Racunovodja> </Racunovodja>
+        <Adresa> </Adresa> 
+    </IzdavateljRacuna>
+    <Kupac> </Kupac>
+    <PodaciZaPlacanje> 
+        <PozivNaBroj> </PozivNaBroj>
+        <ModeliPlacanja> </ModeliPlacanja>
+        <OpisPlacanja> </OpisPlacanja>
+    </PodaciZaPlacanje>
+    <Stavka> 
+        <SifraArtikla> </SifraArtikla>
+        <Naziv> </Naziv>
+        <Kolicina> </Kolicina>
+        <JedinicnaCijena> </JedinicnaCijena>
+        <UkupnaCijenaBezPoreza> </UkupnaCijenaBezPoreza>
+        <PoreznaStopa> </PoreznaStopa>
+        <CijenaSPorezom> </CijenaSPorezom>
+    </Stavka>
+
+</Invoice>

@@ -1,0 +1,36 @@
+{
+    "Invoice": {
+      "BrojRacuna": "",
+      "DatumIzdavanja": "",
+      "VrijemeIzdavanja": "",
+      "Napomena": "",
+      "RokZaPlacanje": "",
+      "KodValute": "",
+      "BrojStavki": "",
+      "PeriodNaplate": {
+        "PocetniDatum": "",
+        "ZavrsniDatum": ""
+      },
+      "IzdavateljRacuna": {
+        "OIB": "",
+        "NazivTvrtke": "",
+        "Racunovodja": "",
+        "Adresa": ""
+      },
+      "Kupac": "",
+      "PodaciZaPlacanje": {
+        "PozivNaBroj": "",
+        "ModeliPlacanja": "",
+        "OpisPlacanja": ""
+      },
+      "Stavka": {
+        "SifraArtikla": "",
+        "Naziv": "",
+        "Kolicina": "",
+        "JedinicnaCijena": "",
+        "UkupnaCijenaBezPoreza": "",
+        "PoreznaStopa": "",
+        "CijenaSPorezom": ""
+      }
+    }
+  }
